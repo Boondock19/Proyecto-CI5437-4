@@ -1,0 +1,21 @@
+1-
+El ganador es la IA 1! Felicidades!
+Tiempo de ejecución: 32.363 segundos, en la ronda 37
+
+2-
+El ganador es la IA 1! Felicidades!
+Tiempo de ejecución: 27.461 segundos, en la ronda 37
+
+3-
+El ganador es la IA 1! Felicidades!
+Tiempo de ejecución: 26.876 segundos, en la ronda 37
+
+
+4-
+El ganador es la IA 1! Felicidades!
+Tiempo de ejecución: 23.645 segundos, en la ronda 37
+
+
+5-
+El ganador es la IA 1! Felicidades!
+Tiempo de ejecución: 27.225 segundos, en la ronda 37

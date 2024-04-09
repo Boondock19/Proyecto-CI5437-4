@@ -1,0 +1,21 @@
+
+1-
+El ganador es la IA 1! Felicidades!
+Tiempo de ejecución: 197.622 segundos, en la ronda 33
+
+2-
+El ganador es la IA 1! Felicidades!
+Tiempo de ejecución: 197.274 segundos, en la ronda 33
+
+
+3-
+El ganador es la IA 1! Felicidades!
+Tiempo de ejecución: 196.647 segundos, en la ronda 33
+
+4-
+El ganador es la IA 1! Felicidades!
+Tiempo de ejecución: 196.050 segundos, en la ronda 33
+
+5-
+El ganador es la IA 1! Felicidades!
+Tiempo de ejecución: 200.339 segundos, en la ronda 33
