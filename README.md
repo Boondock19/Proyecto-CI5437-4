@@ -5,7 +5,7 @@ Proyecto libre que implementa una interfaz de juego IA VS IA del juego Connect 4
 # Librerías Necesarias:
 
 - pygame -> pip install pygame
-- numpy -> pip insatll numpy 
+- numpy -> pip install numpy 
 
 # Instrucciones
 
